@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 ABCEF30
-=======
 ABCD20
->>>>>>> origin/naga
